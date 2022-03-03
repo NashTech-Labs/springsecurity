@@ -10,4 +10,4 @@ spring security is an application level security framework that provides ways to
  
  # Credential 
  Username- knoldus
- Username- knoldus
+ password- 1234
